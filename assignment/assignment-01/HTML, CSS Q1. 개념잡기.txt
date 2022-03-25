@@ -1,0 +1,8 @@
+HTML/CSS - Q1
+1. 개념잡기
+HTML 구조에 대한 문제입니다. 각 번호에 해당하는 값을 
+적어주세요!
+
+1) padding
+2) border
+3) margin
