@@ -16,13 +16,14 @@ body {
 
 .Headline {
     width: 100%;
-    height: 15%;
+    height: 200px;
     border-bottom: 3px solid black;
 }
 
 .Contents {
     display: flex;
     justify-content: space-evenly;
+    align-items: center;
 }
 
 .Data {
@@ -33,31 +34,35 @@ body {
 }
 
 .Basic {
-    width: 250px;
-    height: 150px;
+    width: 275px;
+    height: 100px;
     border: 3px solid black;
+    border-radius: 13px;
 }
 
 .Likes{
-    width: 250px;
-    height: 200px;
+    width: 275px;
+    height: 150px;
     border: 3px solid black;
+    border-radius: 13px;
 }
 
 .Schedule{
-    width: 250px;
-    height: 350px;
+    width: 275px;
+    height: 250px;
     border: 3px solid black;
+    border-radius: 13px;
 }
 
 .Life {
     width: 450px;
-    height: 700px;
+    height: 600px;
     border: 3px solid black;
+    border-radius: 13px;
 }
 
 .Copyright {
     width: 100%;
-    height: 50px;
+    height: 25px;
     border-top: 3px solid black;
 }
