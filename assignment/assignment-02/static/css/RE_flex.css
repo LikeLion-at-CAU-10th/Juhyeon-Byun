@@ -15,6 +15,7 @@ body{
     flex-basis: 20%;
     display: flex;
     justify-content: center;
+    align-items: center;
 }
 
 .banner {
@@ -43,16 +44,15 @@ body{
 
 .post {
     background-color: lightcyan;
-    flex-basis: 60%;
     display: flex;
     align-items: center;
     justify-content: space-evenly;
 }
 
-.postinterest {
-    flex-basis: 62%;
+.interest {
+    flex-basis: 72%;
 }
 
-.postrecent {
+.recent {
     flex-basis: 22%;
 }
