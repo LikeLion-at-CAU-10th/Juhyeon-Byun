@@ -54,13 +54,15 @@ body{
     width: 67%;
     background-color: lightcyan;
     justify-content: center;
-    text-align: center;
+    display: flex;
+    align-items: center;
 }
 
 .recent {
     height: 100%;
     width: 25%;
+    display: flex;
     background-color: lightcyan;
     justify-content: center;
-    text-align: center;
+    align-items: center;
 }
