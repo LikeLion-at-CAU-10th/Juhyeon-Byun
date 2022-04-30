@@ -40,12 +40,20 @@
 #         new_data.append(item)
 #         print(item)
 
-num_list = [1,2,3,4,5,6,7,8,9,10]
+# num_list = [1,2,3,4,5,6,7,8,9,10]
 
-new_data =[]
-for n in num_list:
-    if n%2 == 0:
-        new_data.append(n)
+# new_data =[]
+# for n in num_list:
+#     if n%2 == 0:
+#         new_data.append(n)
 
-print(new_data)
-        
+# print(new_data)
+
+
+# if는 true, false에 대하여 
+str = "수은언니 상민 하린 민규 선영 영권 주현"
+
+if "수은언니" in str:
+    print("수은언니가 있어")
+else:
+    print("언니가 없대")
