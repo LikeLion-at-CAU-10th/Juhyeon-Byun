@@ -1,0 +1,28 @@
+nav {
+    background-color: rgb(62, 143, 124);
+    color: rgba(114, 53, 53, 0.938);
+    display: fixed;
+}
+
+nav ul {
+    list-style-type: none;
+    width: 600px;
+    height: 45px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+#name {
+    color: rgb(98, 32, 160);
+}
+
+.introduce-text {
+    color: rgb(98, 32, 160);
+}
+
+#name:hover{
+    color: black   
+}
