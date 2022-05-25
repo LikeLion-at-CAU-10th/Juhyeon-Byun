@@ -4,7 +4,7 @@
 
  - - - - - - - - - - - -
 
-1. Basic Concept <link >
+1. [Basic Concept]
 
 2. Django Framework
 3. Api Design
