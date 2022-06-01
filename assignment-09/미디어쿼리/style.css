@@ -1,0 +1,27 @@
+/* mobile first */
+
+.title {font-size:30px;}
+
+@media (min-width: 640px) {
+.title {font-size:25px;}
+}
+
+@media (min-width: 768px) {
+.title {font-size: 20px;}
+}
+
+@media (min-width: 1024px) {
+.title {font-size: 10px;}
+}
+
+/* desktop first */
+
+.title {font-size : 30px;}s
+
+@media (max-width: 1023px) {
+.title {font-size: 16px;}
+}
+
+@media (max-width: 768px) {
+.title {font-size : 23px;}
+}
